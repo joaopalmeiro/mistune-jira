@@ -19,3 +19,5 @@ This is text
 _This is italic text_
 
 ~~Strikethrough~~
+
+[link text](https://github.com/)
